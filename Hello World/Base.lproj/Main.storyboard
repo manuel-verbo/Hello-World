@@ -730,7 +730,7 @@
                                 </connections>
                             </button>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="nx2-Wa-JHx">
-                                <rect key="frame" x="18" y="80" width="393" height="123"/>
+                                <rect key="frame" x="18" y="73" width="393" height="123"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" title="Label" id="0Yq-Jr-kvD">
                                     <font key="font" metaFont="system" size="30"/>

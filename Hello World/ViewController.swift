@@ -26,7 +26,7 @@ class ViewController: NSViewController {
     @IBAction func sayButtonClicked(_ sender: Any) {
         var name = nameField.stringValue
         if name.isEmpty {
-            name = "World"
+            name = "Sorry, name not specified"
         }
         let greeting = "Hello \(name)!"
         
