@@ -1,2 +1,2 @@
 # hello-world
-Ethereum hello-world Smart Contract
+Ethereum hello-world Smart Contract Sample. 
